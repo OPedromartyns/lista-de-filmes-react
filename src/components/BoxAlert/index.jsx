@@ -8,7 +8,7 @@ export function BoxAlert({ type }) {
       {type === 'empty' && (
         <>
           <FaInfoCircle size={36} />
-          <p>A lista de tarefas está vazia.</p>
+          <p>A lista de filmes está vazia.</p>
         </>
       )}
 
@@ -16,7 +16,7 @@ export function BoxAlert({ type }) {
         <>
           <FaInfoCircle size={36} />
           <p>
-            Não foi possível localizar nenhuma tarefa,
+            Não foi possível localizar nenhuma filme,
             tente novamente com outro termo.
           </p>
         </>

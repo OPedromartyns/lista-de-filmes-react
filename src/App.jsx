@@ -62,7 +62,7 @@ export function App() {
   return (
     <div className={styles.container}>
       <div className={styles.content}>
-        <h1>TODOLIST</h1>
+        <h1>Os 100  filmes da minha vida</h1>
 
         <Form onSubmit={onAddTask} />
 
@@ -72,7 +72,7 @@ export function App() {
           type="text"
           value={searchTaskName}
           onChange={handleTermSearch}
-          placeholder="Pesquisar uma tarefa"
+          placeholder="Pesquisar um filme"
         />
 
         <Tasks
@@ -84,14 +84,15 @@ export function App() {
 
         <footer className={styles.footer}>
           <h6>
-            Total de tarefas:
+            Total de filmes:
             <span>{totalTasks}</span>
           </h6>
 
           <h6>
-            Total de tarefas concluidas:
+            Total de Filmes assistidos mais de uma vez:
             <span>{totalCompletedTasks}</span>
           </h6>
+          <h4>Orgulhosamente desenvolvido por <a href="https://www.instagram.com/opedromartyns/" target="_blank">@opedromartyns</a> </h4>
         </footer>
       </div>
 

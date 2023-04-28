@@ -1,20 +1,20 @@
 <h1 align="center">
-  Todolist
+   Cine100
 </h1>
 
-<img src="./.github/screenshot.png" />
+<img src="" />
 
 
 ## Projeto
 
-Essa é uma lista de tarefas feita com a lib [ReactJS](https://pt-br.reactjs.org/), contendo as seguintes funcionalidades:
+Essa é uma Aplicação feita com a lib [ReactJS](https://pt-br.reactjs.org/), contendo as seguintes funcionalidades:
 
-- [x] Adicionar nova tarefa
-- [x] Remover tarefa
-- [x] Pesquisar tarefa
-- [x] Marcar tarefa como concluida
-- [x] Contador de tarefas criadas
-- [x] Contador de tarefas concluidas
+- [x] Adicionar um novo filme
+- [x] Remover filme
+- [x] Pesquisar Filme
+- [x] Marcar Filme como assistido mais de uma vez
+- [x] Contador de filmes adicionados
+
 
 ## Como executar
 

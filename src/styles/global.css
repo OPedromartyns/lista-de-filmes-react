@@ -14,7 +14,7 @@ body {
   --background-light: #21212B;
 
   --primary: #FFFFFF;
-  --secondary: #F95738;
+  --secondary: blue;
   --terciary: #bbbbbb;
 }
 
@@ -29,4 +29,7 @@ body {
 
 button:hover {
   cursor: pointer;
+}
+a{
+  color: blue;
 }
