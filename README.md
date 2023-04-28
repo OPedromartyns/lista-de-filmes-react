@@ -7,7 +7,7 @@
 
 ## Projeto
 
-Essa é uma Aplicação feita com a lib [ReactJS](https://pt-br.reactjs.org/), contendo as seguintes funcionalidades:
+Essa é uma Aplicação feita com a biblioteca [ReactJS](https://pt-br.reactjs.org/), contendo as seguintes funcionalidades:
 
 - [x] Adicionar um novo filme
 - [x] Remover filme
@@ -21,7 +21,7 @@ Essa é uma Aplicação feita com a lib [ReactJS](https://pt-br.reactjs.org/), c
 Será necessário fazer o clone do projeto
 
 ```bash
-$ git clone https://github.com/rasmoo-edtech/react-todolist 
+$ https://github.com/OPedromartyns/lista-de-filmes-react
 ```
 
 Instalar as dependências e executar o script de inicialização
